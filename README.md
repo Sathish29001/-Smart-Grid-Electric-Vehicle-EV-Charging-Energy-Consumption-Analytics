@@ -1,4 +1,4 @@
-🚀 -Smart-Grid-Electric-Vehicle-EV-Charging-Energy-Consumption-Analytics
+🚀 Smart-Grid-Electric-Vehicle-EV-Charging-Energy-Consumption-Analytics
 
 Excited to share my latest end-to-end data analytics project exploring EV charging telemetry, grid demand patterns, and consumer behavior using Python!
 
